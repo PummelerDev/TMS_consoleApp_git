@@ -1,0 +1,14 @@
+DiscountCard
+ID 12312312
+cardStatusType gold
+dateOfRegistry 27.10.2022
+email ivanov.iv@gmail.com
+phoneNumber +375(29)2020327
+lastName Ivanov
+firstName Ivan
+sex male
+age 18
+country Belarus
+city Minsk
+street Timiryazeva
+zip 220000
